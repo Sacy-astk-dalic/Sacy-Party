@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Our GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Sacy-astk-dalic/Sacy-Party/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+We are trying to build a tech Server of [Minecraft](https://minecraft-zh.gamepedia.com/Minecraft_Wiki) include Redstone,commands,Skillshare even PVP.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+As more,tech sharing also become a goal at the beginning of setting up this team, if any problem or idea appear in your mind immediately, we welcome certainly.
 
 ### Markdown
 
