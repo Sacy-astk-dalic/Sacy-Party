@@ -4,27 +4,23 @@ We are trying to build a tech Server of [Minecraft](https://minecraft-zh.gameped
 
 As more,tech sharing also become a goal at the beginning of setting up this team, if any problem or idea appear in your mind immediately, we welcome certainly.
 
+## Resources
+
+[Minecraft Official](https://www.minecraft.net/zh-hans/) and [Minecraft wiki](https://minecraft-zh.gamepedia.com/Minecraft_Wiki) [MCBBS](https://www.mcbbs.net/)
+
+[MCVersions](https://mcversions.net/) [Minecraft Forge](https://files.minecraftforge.net/) [Minecraft Fabric](https://fabricmc.net/) [Minecraft Liteloader](http://www.liteloader.com/)
+
+[Minecraft CurseForge](https://www.curseforge.com/minecraft/modpacks) [Minecraft Spigot](https://www.spigotmc.org/) [Minecraft Bukkit](https://dev.bukkit.org/bukkit-plugins)
+
+## Sacy's Minecraft Server
+
+Born in 2016 may,it was formed by the merger of three teams shellrock, aiser and yugeulian,just 4 fun!
+——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
@@ -35,3 +31,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+                                                                                                                                contact:
+                                                                                                                                [Bilibili](https://space.bilibili.com/243889510)
